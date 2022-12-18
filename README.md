@@ -1,2 +1,2 @@
-# power-bi-portfolio
-Power BI projects
+# Power BI Portfolio
+Various Power BI projects. Depictions are static images. Confidential data has been deleted.
